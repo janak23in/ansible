@@ -1,3 +1,6 @@
+[web_servers]
 ebsapp101.akyrah.com
+
+[db_servers]
 ebsdb101.akyrah.com
 ebsdb102.akyrah.com
